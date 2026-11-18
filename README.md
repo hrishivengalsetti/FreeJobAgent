@@ -33,7 +33,7 @@ Job scraping uses [JobSpy](https://github.com/speedyapply/JobSpy): free, no scra
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/Aryan-Pardeshi/FreeJobAgent.git
+git clone https://github.com/hrishivengalsetti/FreeJobAgent.git
 cd FreeJobAgent
 uv sync
 ```
